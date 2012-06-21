@@ -1,3 +1,6 @@
+This public fork is to let me clone locally and hack, possibly making pull requests. 
+Please go to ajcochanowicz/Kickstrap for the original repo. 
+
 Version 0.9.1 RC
 
 The Gist
